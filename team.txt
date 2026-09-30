@@ -1,3 +1,7 @@
 Team members: V0rstiy and edwjin
 Favorite programming language: TBD
+<<<<<<< HEAD
 Team motto: git push, git pull, git legs
+=======
+Team motto: Where's the function?
+>>>>>>> upstream/main
